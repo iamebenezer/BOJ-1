@@ -1,0 +1,72 @@
+.elementor-kit-6 {
+    --e-global-color-primary: #55028c;
+    --e-global-color-secondary: #55028c;
+    --e-global-color-text: #918e8c;
+    --e-global-color-accent: #fafdfc;
+    --e-global-color-014ba06: #0d0102;
+    --e-global-color-d68dea0: #350003;
+    --e-global-color-e351489: #3a000047;
+    --e-global-typography-primary-font-family: "Rajdhani";
+    --e-global-typography-primary-font-size: 40px;
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-primary-line-height: 1.5em;
+    --e-global-typography-secondary-font-family: "Actor";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-secondary-text-transform: uppercase;
+    --e-global-typography-secondary-letter-spacing: 0.3em;
+    --e-global-typography-text-font-family: "Titillium Web";
+    --e-global-typography-text-font-size: 16px;
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-text-line-height: 1.5em;
+    --e-global-typography-accent-font-family: "Rajdhani";
+    --e-global-typography-accent-font-size: 18px;
+    --e-global-typography-accent-font-weight: 500;
+    --e-global-typography-accent-text-transform: uppercase;
+    --e-global-typography-accent-line-height: 1.5em;
+    --e-global-typography-accent-letter-spacing: 0.5px;
+    --e-global-typography-53d56a3-font-family: "Rajdhani";
+    --e-global-typography-53d56a3-font-size: 22px;
+    --e-global-typography-53d56a3-font-weight: 600;
+    --e-global-typography-53d56a3-line-height: 1.3px;
+  }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1140px;
+  }
+  .e-con {
+    --container-max-width: 1140px;
+  }
+  .elementor-widget:not(:last-child) {
+    margin-block-end: 20px;
+  }
+  .elementor-element {
+    --widgets-spacing: 20px 20px;
+  }
+   {
+  }
+  h1.entry-title {
+    display: var(--page-title-display);
+  }
+  .elementor-kit-6 e-page-transition {
+    background-color: #ffbc7d;
+  }
+  .site-header {
+    padding-inline-end: 0px;
+    padding-inline-start: 0px;
+  }
+  @media (max-width: 1024px) {
+    .elementor-section.elementor-section-boxed > .elementor-container {
+      max-width: 1024px;
+    }
+    .e-con {
+      --container-max-width: 1024px;
+    }
+  }
+  @media (max-width: 767px) {
+    .elementor-section.elementor-section-boxed > .elementor-container {
+      max-width: 767px;
+    }
+    .e-con {
+      --container-max-width: 767px;
+    }
+  }
+  
