@@ -763,7 +763,7 @@
    <!-- Include Tailwind CSS -->
    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
    </head>
-   <body>
+   <body style="background-image: linear-gradient(to right top, #86855f, #6f5e47, #4f3d34, #2b2120, #000000);">
    
    <nav class="bg-black p-4">
        <div class="container mx-auto flex justify-between items-center">
@@ -1048,7 +1048,26 @@
                           text-align: var(--caption-text-align)
                         }
                       </style>
-                      <img src="logo.png" alt="">
+                      <style>
+                        .floating-element {
+  width: 50px;
+  height: 50px;
+  background-color: #3498db;
+  border-radius: 50%;
+  position: absolute;
+  animation: floatAnimation 3s infinite alternate ease-in-out;
+}
+
+@keyframes floatAnimation {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-20px);
+  }
+}
+                      </style>
+                      <img src="logo.png" class="floating-element" alt="">
                     </div>
                   </div>
                 </div>
