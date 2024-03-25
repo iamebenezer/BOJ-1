@@ -39,15 +39,16 @@ window.onload = function() {
 
     // Create particles
     var particles = [];
-    var numberOfParticles = 100;
+    var numberOfParticles = 50;
     for (var i = 0; i < numberOfParticles; i++) {
-        var radius = Math.random() * 5 + 2;
-        var x = Math.random() * (canvas.width - radius * 2) + radius;
-        var y = Math.random() * (canvas.height - radius * 2) + radius;
+        var radius = 2;
+        var x = canvas.width / 2;
+        var y = canvas.height / 2;
         var color = 'rgba(255, 255, 255, 0.5)';
+        var angle = Math.random() * Math.PI * 2;
         var velocity = {
-            x: (Math.random() - 0.5) * 2,
-            y: (Math.random() - 0.5) * 2
+            x: Math.cos(angle),
+            y: Math.sin(angle)
         };
         particles.push(new Particle(x, y, radius, color, velocity));
     }
@@ -60,6 +61,23 @@ window.onload = function() {
         particles.forEach(function(particle) {
             particle.update();
         });
+
+        // Draw lines between particles to form web
+        for (var i = 0; i < particles.length; i++) {
+            for (var j = i + 1; j < particles.length; j++) {
+                var dx = particles[i].x - particles[j].x;
+                var dy = particles[i].y - particles[j].y;
+                var distance = Math.sqrt(dx * dx + dy * dy);
+
+                if (distance < 100) {
+                    ctx.beginPath();
+                    ctx.moveTo(particles[i].x, particles[i].y);
+                    ctx.lineTo(particles[j].x, particles[j].y);
+                    ctx.strokeStyle = 'rgba(255, 255, 255, 0.2)';
+                    ctx.stroke();
+                }
+            }
+        }
     }
 
     animate();
