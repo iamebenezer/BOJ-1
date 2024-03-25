@@ -1,0 +1,190 @@
+ <div data-marvy_enable_drop_animation="false" data-marvy_enable_fancy_rotate="false" data-marvy_enable_flying_object="false" data-marvy_enable_ripples_animation="false" data-marvy_enable_waves_animation="false" data-marvy_enable_rings_animation="false" data-marvy_enable_topology_animation="false" data-marvy_enable_gradient_animation="false" data-marvy_enable_snow_animation="false" data-marvy_enable_firework_animation="false" data-marvy_enable_cloud_animation="false" class="elementor-element elementor-element-a1f64f9 e-flex e-con-boxed e-con e-parent" data-id="a1f64f9" data-element_type="container" data-core-v316-plus="true">
+            <div class="e-con-inner">
+              <div class="elementor-element elementor-element-503d38c elementor-widget elementor-widget-qi_addons_for_elementor_timeline" data-id="503d38c" data-element_type="widget" data-widget_type="qi_addons_for_elementor_timeline.default">
+                <div class="elementor-widget-container">
+                  <div class="qodef-shortcode qodef-m  qodef-qi-timeline qodef-timeline--vertical  qodef-timeline-layout--vertical-side qodef-line--inside qodef-point--standard qodef-qi--has-appear  ">
+                    <div class="qodef-e qodef-e-item  elementor-repeater-item-357ec90 qodef-obverse">
+                      <div class="qodef-e-line-holder">
+                        <span class="qodef-e-line"></span>
+                      </div>
+                      <div class="qodef-e-item-inner">
+                        <div class="qodef-e-point-holder">
+                          <div class="qodef-e-point"></div>
+                        </div>
+                        <div class="qodef-e-item-content">
+                          <div class="qodef-e-side-holder">
+                            <div class="qodef-e-image"></div>
+                          </div>
+                          <div class="qodef-e-content-holder">
+                            <div class="qodef-e-date"></div>
+                            <h4 class="qodef-e-title" style="font-family: head;"> PHASE 1 </h4>
+                            <p class="qodef-e-text" style="font-family: texts;"> Lorem. <br> Lorem. <br> Lorem. </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="qodef-e qodef-e-item  elementor-repeater-item-df6413e qodef-reverse">
+                      <div class="qodef-e-line-holder">
+                        <span class="qodef-e-line"></span>
+                      </div>
+                      <div class="qodef-e-item-inner">
+                        <div class="qodef-e-point-holder">
+                          <div class="qodef-e-point"></div>
+                        </div>
+                        <div class="qodef-e-item-content">
+                          <div class="qodef-e-side-holder">
+                            <div class="qodef-e-image"></div>
+                          </div>
+                          <div class="qodef-e-content-holder">
+                            <div class="qodef-e-date"></div>
+                            <h4 class="qodef-e-title" style="font-family: head;"> PHASE 2 </h4>
+                            <p class="qodef-e-text" style="font-family: texts;"> Lorem.</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="qodef-e qodef-e-item  elementor-repeater-item-110e1c6 qodef-obverse">
+                      <div class="qodef-e-line-holder">
+                        <span class="qodef-e-line"></span>
+                      </div>
+                      <div class="qodef-e-item-inner">
+                        <div class="qodef-e-point-holder">
+                          <div class="qodef-e-point"></div>
+                        </div>
+                        <div class="qodef-e-item-content">
+                          <div class="qodef-e-side-holder">
+                            <div class="qodef-e-image"></div>
+                          </div>
+                          <div class="qodef-e-content-holder">
+                            <div class="qodef-e-date"></div>
+                            <h4 class="qodef-e-title" style="font-family: head;"> PHASE 3 </h4>
+                            <p class="qodef-e-text" style="font-family: texts;"> Lorem, ipsum.</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="qodef-e qodef-e-item  elementor-repeater-item-80527bd qodef-reverse">
+                      <div class="qodef-e-line-holder">
+                        <span class="qodef-e-line"></span>
+                      </div>
+                      <div class="qodef-e-item-inner">
+                        <div class="qodef-e-point-holder">
+                          <div class="qodef-e-point"></div>
+                        </div>
+                        <div class="qodef-e-item-content">
+                          <div class="qodef-e-side-holder">
+                            <div class="qodef-e-image"></div>
+                          </div>
+                          <div class="qodef-e-content-holder">
+                            <div class="qodef-e-date"></div>
+                            <h4 class="qodef-e-title" style="font-family: head;"> PHASE 4 </h4>
+                            <p class="qodef-e-text" style="font-family: texts;"> Lorem, ipsum. </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="qodef-e qodef-e-item  elementor-repeater-item-e89beef qodef-obverse">
+                      <div class="qodef-e-line-holder">
+                        <span class="qodef-e-line"></span>
+                      </div>
+                      <div class="qodef-e-item-inner">
+                        <div class="qodef-e-point-holder">
+                          <div class="qodef-e-point"></div>
+                        </div>
+                        <div class="qodef-e-item-content">
+                          <div class="qodef-e-side-holder">
+                            <div class="qodef-e-image"></div>
+                          </div>
+                          <div class="qodef-e-content-holder">
+                            <div class="qodef-e-date"></div>
+                            <h4 class="qodef-e-title" style="font-family: head;"> PHASE 5 </h4>
+                            <p class="qodef-e-text" style="font-family: texts;"> Lorem, ipsum. </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="qodef-e qodef-e-item  elementor-repeater-item-cfcc2d4 qodef-reverse">
+                      <div class="qodef-e-line-holder">
+                        <span class="qodef-e-line"></span>
+                      </div>
+                      <div class="qodef-e-item-inner">
+                        <div class="qodef-e-point-holder">
+                          <div class="qodef-e-point"></div>
+                        </div>
+                        <div class="qodef-e-item-content">
+                          <div class="qodef-e-side-holder">
+                            <div class="qodef-e-image"></div>
+                          </div>
+                          <!-- <div class="qodef-e-content-holder"><div class="qodef-e-date"> 2024 </div><h4 class="qodef-e-title"> Q4 </h4><p class="qodef-e-text"> MUSIC/BAND COMPETITION </p></div> -->
+                        </div>
+                      </div>
+                    </div>
+                    <div class="qodef-e qodef-e-item  elementor-repeater-item-ad47111 qodef-obverse">
+                      <div class="qodef-e-line-holder">
+                        <span class="qodef-e-line"></span>
+                      </div>
+                      <div class="qodef-e-item-inner">
+                        <div class="qodef-e-point-holder">
+                          <div class="qodef-e-point"></div>
+                        </div>
+                        <div class="qodef-e-item-content">
+                          <div class="qodef-e-side-holder">
+                            <div class="qodef-e-image"></div>
+                          </div>
+                          <!-- <div class="qodef-e-content-holder"><div class="qodef-e-date"> 2025 </div><h4 class="qodef-e-title"> Q1 </h4><p class="qodef-e-text"> MUSIC BAND </p></div> -->
+                        </div>
+                      </div>
+                    </div>
+                    <div class="qodef-e qodef-e-item  elementor-repeater-item-f70d6f2 qodef-reverse">
+                      <div class="qodef-e-line-holder">
+                        <span class="qodef-e-line"></span>
+                      </div>
+                      <div class="qodef-e-item-inner">
+                        <div class="qodef-e-point-holder">
+                          <div class="qodef-e-point"></div>
+                        </div>
+                        <div class="qodef-e-item-content">
+                          <div class="qodef-e-side-holder">
+                            <div class="qodef-e-image"></div>
+                          </div>
+                          <!-- <div class="qodef-e-content-holder"><div class="qodef-e-date"> 2025 </div><h4 class="qodef-e-title"> Q2 </h4><p class="qodef-e-text"> MUSIC PRODUCTION </p></div> -->
+                        </div>
+                      </div>
+                    </div>
+                    <div class="qodef-e qodef-e-item  elementor-repeater-item-54cf141 qodef-obverse">
+                      <div class="qodef-e-line-holder">
+                        <span class="qodef-e-line"></span>
+                      </div>
+                      <div class="qodef-e-item-inner">
+                        <div class="qodef-e-point-holder">
+                          <div class="qodef-e-point"></div>
+                        </div>
+                        <div class="qodef-e-item-content">
+                          <div class="qodef-e-side-holder">
+                            <div class="qodef-e-image"></div>
+                          </div>
+                          <!-- <div class="qodef-e-content-holder"><div class="qodef-e-date"> 2025 </div><h4 class="qodef-e-title"> Q3 </h4><p class="qodef-e-text"> MUSIC MARKETPLACE </p></div> -->
+                        </div>
+                      </div>
+                    </div>
+                    <div class="qodef-e qodef-e-item  elementor-repeater-item-55811de qodef-reverse">
+                      <div class="qodef-e-line-holder">
+                        <span class="qodef-e-line"></span>
+                      </div>
+                      <div class="qodef-e-item-inner">
+                        <div class="qodef-e-point-holder">
+                          <div class="qodef-e-point"></div>
+                        </div>
+                        <div class="qodef-e-item-content">
+                          <div class="qodef-e-side-holder">
+                            <div class="qodef-e-image"></div>
+                          </div>
+                          <!-- <div class="qodef-e-content-holder"><div class="qodef-e-date"> 2026 </div><h4 class="qodef-e-title"> Q1 </h4><p class="qodef-e-text"> MUSIC STREAMING APP </p></div> -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
