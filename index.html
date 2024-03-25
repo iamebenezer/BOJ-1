@@ -754,18 +754,9 @@
         }
       }
     </script>
-   <!DOCTYPE html>
-   <html lang="en">
-   <head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Responsive Navbar</title>
-   <!-- Include Tailwind CSS -->
-   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-   </head>
-   <body style="background-image: linear-gradient(to left top, #960000, #750013, #500817, #2c0c13, #000000);">
-   
-   <nav class="bg-black p-4">
+ 
+ 
+   <nav class="bg-black p-4 fixed">
        <div class="container mx-auto flex justify-between items-center">
            <div class="flex items-center">
                <a href="#" class="text-white text-lg font-bold">
@@ -792,7 +783,7 @@
        </div>
    </nav>
    
-   <div id="mobile-menu" class="md:hidden bg-black p-4 hidden flex justify-center items-center flex-col" style="font-family: texts;">
+   <div id="mobile-menu" class="md:hidden bg-black p-4 hidden flex justify-center items-center absolute flex-col" style="font-family: texts;">
        <a href="#" class="block text-white  px-3 py-2 rounded-md text-base font-medium">Home</a>
        <a href="#about" class="block text-white  px-3 py-2 rounded-md text-base font-medium">About</a>
        <a href="#how" class="block text-white  px-3 py-2 rounded-md text-base font-medium">How it works</a>
