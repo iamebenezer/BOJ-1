@@ -12,7 +12,7 @@ window.onload = function() {
         this.x = x;
         this.y = y;
         this.radius = radius;
-        this.color = color; // #9a5b3a color
+        this.color = color;
         this.velocity = velocity;
 
         this.draw = function() {
@@ -44,7 +44,7 @@ window.onload = function() {
         var radius = 2;
         var x = canvas.width / 2;
         var y = canvas.height / 2;
-        var color = '#9a5b3a'; // #9a5b3a color
+        var color = 'rgba(255, 255, 255, 0.5)';
         var angle = Math.random() * Math.PI * 2;
         var velocity = {
             x: Math.cos(angle),
@@ -73,7 +73,7 @@ window.onload = function() {
                     ctx.beginPath();
                     ctx.moveTo(particles[i].x, particles[i].y);
                     ctx.lineTo(particles[j].x, particles[j].y);
-                    ctx.strokeStyle = '#fff'; // #9a5b3a color
+                    ctx.strokeStyle = 'rgba(255, 255, 255, 0.2)';
                     ctx.stroke();
                 }
             }
